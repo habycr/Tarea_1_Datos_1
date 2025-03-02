@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier\\OneDrive\\Escritorio\\TEC\\I SEMESTRE 2025\\Algoritmos y estructura de datos 1\\Quiz0\\Quiz0.csproj",
+      "projectUniqueName": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea_1_D1\\Quiz0\\Tarea_1_Datos_1\\Quiz0.csproj",
       "projectName": "Quiz0",
-      "projectPath": "C:\\Users\\Javier\\OneDrive\\Escritorio\\TEC\\I SEMESTRE 2025\\Algoritmos y estructura de datos 1\\Quiz0\\Quiz0.csproj",
+      "projectPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea_1_D1\\Quiz0\\Tarea_1_Datos_1\\Quiz0.csproj",
       "packagesPath": "C:\\Users\\Javier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier\\OneDrive\\Escritorio\\TEC\\I SEMESTRE 2025\\Algoritmos y estructura de datos 1\\Quiz0\\obj\\",
+      "outputPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\Tarea_1_D1\\Quiz0\\Tarea_1_Datos_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javier\\AppData\\Roaming\\NuGet\\NuGet.Config",
